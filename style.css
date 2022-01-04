@@ -7,6 +7,12 @@ h1{
     font-size: 35px;
 
 }
+h3{
+    color: orange;
+}
+h2{
+    font-size: 35px;
+}
 .colour{
     color: red;
 }
@@ -29,4 +35,15 @@ h1{
     color: white;
     font-weight: 500;
     
+}
+.item{
+    width: 70%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 5%;
+    box-shadow: 5px 10px 10px purple;
+    border-radius: 10px;
+}
+footer p{
+    text-align: center;
 }
